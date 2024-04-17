@@ -1,0 +1,9 @@
+Documento: 11102597
+Nombre: Fredy
+Apellido: Palacio
+Email: fredy.palacio@gmail.com
+Edad: 18
+Carrera: Ing. Telecomunicaciones
+Nota: 4.9
+
+

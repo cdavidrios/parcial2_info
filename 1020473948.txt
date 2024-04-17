@@ -1,0 +1,7 @@
+Documento: 1020473948
+Nombre: Cristian
+Apellido: Rios
+Email: cdavid.rios@udea.edu.co
+Edad: 28
+Carrera: Ing. Electronica
+Nota: 3.5
